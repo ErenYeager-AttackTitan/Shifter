@@ -5,13 +5,13 @@
       "resolution": "720p",
       "bitrate": 1000000,
       "videoChunks": [
-        "720p/frag_0001.shft"
+        "https://raw.githubusercontent.com/ErenYeager-AttackTitan/Shifter/refs/heads/main/720p/frag_0001.shft"
       ],
       "audioChunks": [
-        "720p/frag_0001.shft"
+        "https://raw.githubusercontent.com/ErenYeager-AttackTitan/Shifter/refs/heads/main/720p/frag_0001.shft"
       ],
       "thumbnailChunks": [
-        "720p/thumb_0000.webp"
+        "https://raw.githubusercontent.com/ErenYeager-AttackTitan/Shifter/refs/heads/main/720p/thumb_0000.webp"
       ],
       "subtitleChunks": []
     },
@@ -19,13 +19,13 @@
       "resolution": "1080p",
       "bitrate": 3000000,
       "videoChunks": [
-        "1080p/frag_0001.shft"
+        "https://raw.githubusercontent.com/ErenYeager-AttackTitan/Shifter/refs/heads/main/1080p/frag_0001.shft"
       ],
       "audioChunks": [
-        "1080p/frag_0001.shft"
+        "https://raw.githubusercontent.com/ErenYeager-AttackTitan/Shifter/refs/heads/main/1080p/frag_0001.shft"
       ],
       "thumbnailChunks": [
-        "1080p/thumb_0000.webp"
+        "https://raw.githubusercontent.com/ErenYeager-AttackTitan/Shifter/refs/heads/main/1080p/thumb_0000.webp"
       ],
       "subtitleChunks": []
     }
