@@ -5,13 +5,13 @@
       "resolution": "720p",
       "bitrate": 1000000,
       "videoChunks": [
-        "output_folder/720p/frag_0001.shft"
+        "720p/frag_0001.shft"
       ],
       "audioChunks": [
-        "output_folder/720p/frag_0001.shft"
+        "720p/frag_0001.shft"
       ],
       "thumbnailChunks": [
-        "output_folder/720p/thumb_0000.webp"
+        "720p/thumb_0000.webp"
       ],
       "subtitleChunks": []
     },
@@ -19,13 +19,13 @@
       "resolution": "1080p",
       "bitrate": 3000000,
       "videoChunks": [
-        "output_folder/1080p/frag_0001.shft"
+        "1080p/frag_0001.shft"
       ],
       "audioChunks": [
-        "output_folder/1080p/frag_0001.shft"
+        "1080p/frag_0001.shft"
       ],
       "thumbnailChunks": [
-        "output_folder/1080p/thumb_0000.webp"
+        "1080p/thumb_0000.webp"
       ],
       "subtitleChunks": []
     }
